@@ -9,3 +9,4 @@ feat 1
 otro cambio 
 
 cambio en master
+git checkout Feature 1 (addign text) and commit on Featue1
