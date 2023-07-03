@@ -10,3 +10,5 @@ otro cambio
 
 cambio en master
 git checkout Feature 1 (addign text) and commit on Featue1
+
+addign text on master after merge with feature1
