@@ -1,0 +1,25 @@
+{
+  "name": "pagina_react",
+  "version": "1.0.0",
+  "description": "Pagina web para monitoreo de la calidad del aire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlegaria/pagina_aire_contaminacion.git"
+  },
+  "keywords": [
+    "aire/contaminacion/ml"
+  ],
+  "author": "valeria_legaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlegaria/pagina_aire_contaminacion/issues"
+  },
+  "homepage": "https://github.com/vlegaria/pagina_aire_contaminacion#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
